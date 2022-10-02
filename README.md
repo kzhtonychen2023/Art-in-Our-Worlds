@@ -1,4 +1,4 @@
-# NASA Space Apps Challenge 2022 The Art In Our Worlds
+# NASA Space Apps Challenge 2022: The Art In Our Worlds
 
 ### Team: Astro-Unite ###
 
