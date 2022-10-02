@@ -18,3 +18,10 @@ This program file is a sample implementation of speech to text transcription in 
 > ### Image Editor ###
 
 Another integral part of our creative data display app is the capacity for image manipulation after selecting an image. We put this concept into implementation with the iamge editor program. Using the Python Imaging Library PIL, manipulations to the image can be made, as exemplified in our program. Some possible choices include image rotation, image blur, altering image sharpness, adding a gray filter, displaying the "edges" detected, image brightness, and image contrast. Some future developments include more options for image manipulation, or even the development of a machine learning model that dynmamically deepens the color within the image.
+
+> ### Stable Diffusion  ###
+
+#### Source Codes: ####
+#### https://github.com/huggingface/diffusers #####
+#### https://www.youtube.com/watch?v=124QcD3u0P8&t=0s #####
+Using Machine Learning, both Stable Diffusion machine learning models offer promising results. Stable Diffusion Short allows users to input a phrase and a photo will be outputted in a short amount of time. Stable Diffusion Long allows users to enter in a phrase and a photo will be outputted in a specific style. Although Stable Diffusion Long takes a long time to train its machine learning model, the programmer can specify 
