@@ -15,4 +15,4 @@ Using IBM Watson's default Natural Language Processing Model, in conjunction wit
 
 This program file is a sample implementation of speech to text transcription in python. Using the concept app stART exploring, all users can access the myriad of data offered by the NASA APIs. The Speech To Text function in our app is an integral part that allows even the illiterate or immobile to explore the possibilities enveloped in space, as such, we developed a speech to text implementation that puts this concept into action(code). Using the program, the user can record themselves talking, and the system will automatically convert the recording into a phrase. Some further developments that can be made in this program include adding multi-language support, to further the accessibility for all to make SPACE for everyone.
 
-> ### Third ###
+> ### Image Editor ###
